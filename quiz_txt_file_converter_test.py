@@ -1,5 +1,7 @@
 #define quiz generator program
-#create a file path or directory for the txt file
+def quiz_generator():
+    #create a file path or directory for the txt file
+    filename = ""
 #loop the program until user wants to exit
 #ask the user for the quiz questions
 #ask the choices
